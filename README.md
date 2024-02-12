@@ -1,35 +1,20 @@
-# Next.js + Jest
+# Admit Spot Assignment
 
-This example shows how to configure Jest to work with Next.js.
 
-This includes Next.js' built-in support for Global CSS, CSS Modules and TypeScript. This example also shows how to use Jest with the App Router and React Server Components.
+Welcome to Admit Spot Assignment! This is a sample README file to guide you through the installation process and running tests.
 
-> **Note:** Since tests can be co-located alongside other files inside the App Router, we have placed those tests in `app/` to demonstrate this behavior (which is different than `pages/`). You can still place all tests in `__tests__` if you prefer.
+## Installation
 
-## Deploy your own
+### Requirements
+- Node.js (version 12 or higher)
+- npm (Node Package Manager)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-jest&project-name=with-jest&repository-name=with-jest)
+### Steps
 
-## How to Use
+1. Clone the repository:
 
-Quickly get started using [Create Next App](https://github.com/vercel/next.js/tree/canary/packages/create-next-app#readme)!
+2. npm install
 
-In your terminal, run the following command:
+3. npm run dev
 
-```bash
-npx create-next-app --example with-jest with-jest-app
-```
-
-```bash
-yarn create next-app --example with-jest with-jest-app
-```
-
-```bash
-pnpm create next-app --example with-jest with-jest-app
-```
-
-## Running Tests
-
-```bash
-npm test
-```
+4. npm run test
