@@ -1,4 +1,4 @@
-import { TransactionProps } from "../types";
+import { TransactionProps } from "../types/index";
 
 export const calculateTotals = (transactions: TransactionProps[]) => {
     let income = 0;
